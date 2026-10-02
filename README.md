@@ -1,6 +1,6 @@
 # Transaction Anomaly Checker
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[your-github-username]/transaction-anomaly-checker/blob/main/transaction_anomaly_checker.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kennedyhuang88/transaction-anomaly-checker/blob/main/transaction_anomaly_checker.ipynb)
 
 A Python notebook that scans a business's payment records and flags transactions that look suspicious.
 
