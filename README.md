@@ -6,7 +6,7 @@ A Python notebook that scans a business's payment records and flags transactions
 
 ## Why I built this
 
-My family's business once had a problem with an employee hiding transactions. I helped go through the records by hand to find the faulty entries. This project is my first attempt at automating that review. I can't share real financial data, so the notebook generates a simulated dataset of 500 transactions and plants a few problems (exactly 8 faulty transactions) in it on purpose.
+My family's business once had a problem with an employee hiding transactions. I helped go through the records by hand to find the faulty entries. This project is my first attempt at automating that review. I can't share real financial data, so the notebook generates a simulated dataset of 500 transactions and plants four kinds of problems in it on purpose (53 in total) in it on purpose.
 
 ## What it checks
 
